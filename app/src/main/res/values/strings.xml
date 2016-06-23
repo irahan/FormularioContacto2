@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FormularioContacto</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descrip">Descripción Contacto</string>
+</resources>
